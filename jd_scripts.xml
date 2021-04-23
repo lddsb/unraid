@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>jd_scripts</Name>
+  <Repository>lxk0301/jd_scripts</Repository>
+  <Registry/>
+  <Network>host</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support/>
+  <Project/>
+  <Overview/>
+  <Category/>
+  <WebUI/>
+  <TemplateURL/>
+  <!-- <Icon>https://secure.gravatar.com/avatar/a219903a95636b2e219160a17bf4d696.jpg</Icon> -->
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1619136093</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Description/>
+  <Networking>
+    <Mode>host</Mode>
+    <Publish/>
+  </Networking>
+  <Data/>
+  <Environment>
+    <Variable>
+      <Value></Value>
+      <Name>JD_COOKIE</Name>
+      <Mode/>
+    </Variable>
+    <Variable>
+      <Value></Value>
+      <Name>PUSH_PLUS_TOKEN</Name>
+      <Mode/>
+    </Variable>
+    <Variable>
+      <Value>true</Value>
+      <Name>ENABLE_AUTO_HELP</Name>
+      <Mode/>
+    </Variable>
+    <Variable>
+      <Value>Y</Value>
+      <Name>CRZAY_JOY_COIN_ENABLE</Name>
+      <Mode/>
+    </Variable>
+  </Environment>
+  <Labels/>
+  <Config Name="&#x963F;&#x91CC;&#x4E91;&#x7684;Access Key ID" Target="JD_COOKIE" Default="" Mode="" Description="&#20140;&#19996;&#99;&#111;&#111;&#107;&#105;&#101;&#44;&#22810;&#20010;&#36134;&#21495;&#30340;&#99;&#111;&#111;&#107;&#105;&#101;&#20351;&#29992;&#38;&#38548;&#24320;&#65292;&#20363;&#65306;&#112;&#116;&#95;&#107;&#101;&#121;&#61;&#88;&#88;&#88;&#59;&#112;&#116;&#95;&#112;&#105;&#110;&#61;&#88;&#88;&#88;&#59;&#38;&#112;&#116;&#95;&#107;&#101;&#121;&#61;&#88;&#88;&#88;&#59;&#112;&#116;&#95;&#112;&#105;&#110;&#61;&#88;&#88;&#88;&#59;&#38;&#112;&#116;&#95;&#107;&#101;&#121;&#61;&#88;&#88;&#88;&#59;&#112;&#116;&#95;&#112;&#105;&#110;&#61;&#88;&#88;&#88;&#59;&#12290;" Type="Variable" Display="always" Required="true" Mask="false">/Config>
+  <Config Name="&#x963F;&#x91CC;&#x4E91;&#x7684;Access Key Secret" Target="PUSH_PLUS_TOKEN" Default="" Mode="" Description="&#24494;&#20449;&#25195;&#30721;&#30331;&#24405;&#21518;&#19968;&#23545;&#19968;&#25512;&#36865;&#25110;&#19968;&#23545;&#22810;&#25512;&#36865;&#19979;&#38754;&#30340;&#116;&#111;&#107;&#101;&#110;&#40;&#24744;&#30340;&#84;&#111;&#107;&#101;&#110;&#41;&#32;&#65292;&#112;&#117;&#115;&#104;&#112;&#108;&#117;&#115;" Type="Variable" Display="always" Required="false" Mask="false"></Config>
+  <Config Name="&#21333;&#23481;&#22120;&#22810;&#36134;&#21495;&#33258;&#21160;&#20114;&#21161;" Target="ENABLE_AUTO_HELP" Default="true" Mode="" Description="Container Variable: DOMAIN" Type="Variable" Display="always" Required="false" Mask="false"></Config>
+  <Config Name="&#26159;&#21542;&#106;&#100;&#95;&#99;&#114;&#97;&#122;&#121;&#95;&#106;&#111;&#121;&#95;&#99;&#111;&#105;&#110;&#25346;&#26426;" Target="CRZAY_JOY_COIN_ENABLE" Default="Y" Mode="" Description="&#100;&#111;&#99;&#107;&#101;&#114;&#45;&#99;&#111;&#109;&#112;&#111;&#115;&#101;&#46;&#121;&#109;&#108;&#25991;&#20214;&#19979;&#22635;&#20889;&#67;&#82;&#90;&#65;&#89;&#95;&#74;&#79;&#89;&#95;&#67;&#79;&#73;&#78;&#95;&#69;&#78;&#65;&#66;&#76;&#69;&#61;&#89;&#34920;&#31034;&#25346;&#26426;&#44;&#67;&#82;&#90;&#65;&#89;&#95;&#74;&#79;&#89;&#95;&#67;&#79;&#73;&#78;&#95;&#69;&#78;&#65;&#66;&#76;&#69;&#61;&#78;&#34920;&#19981;&#25346;&#26426;" Type="Variable" Display="always" Required="false" Mask="false"></Config>
+</Container>
